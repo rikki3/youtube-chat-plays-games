@@ -1,0 +1,17 @@
+{
+  "allow_livebroadcast_lookup": true,
+  "client_id": "",
+  "client_secret": "",
+  "commands_file": "C:\\Users\\Rickesh Singh\\Documents\\ftp_test\\commands.txt",
+  "enable_scraper_fallback": true,
+  "fallback_on_reasons": [
+    "quotaExceeded"
+  ],
+  "live_video_id": "",
+  "scraper_headless": false,
+  "scraper_node_path": "node",
+  "scraper_profile_dir": "%LOCALAPPDATA%\\ytplays-profile",
+  "scraper_restart_backoff_sec": 5,
+  "scraper_script": "scraper/chat_worker.mjs",
+  "api_reprobe_interval_sec": 900
+}
