@@ -1,0 +1,7 @@
+config.json
+token.json
+*.pdb
+*.exe
+*.obj
+node_modules/
+.vscode/
